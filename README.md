@@ -13,7 +13,7 @@ experimenting with new technologies, or solving complex problems, I am always ex
 Here are a few of my favorite projects that you might find interesting:
 
 - [Project 1 Name](link)**: A description of your project here. You can add key features, tech stack, and your contributions.
-- [Project 2 Name](link)**: A brief overview of another cool project.
+- [Portfolio Website](link)**: A brief overview of another cool project
 - [Project 3 Name](link)**: Highlight a third project if you'd like.
 
 Check out my repositories for more!

@@ -14,7 +14,7 @@ Here are a few of my favorite projects that you might find interesting:
 
 💻[Contact Manager App]: This application is designed to manage contact information efficiently with robust backend support. Features Create new contacts with essential details like name, email, and phone number.
 
-📃[Task Manager]: An efficient Task Manager using Node.js and in-memory storage. It can be a command-line application where users can add, view, and delete tasks.
+📃[Task Manager]: An efficient Task Manager using Java and file storage. It can be a command-line application where users can add, view, delete and update tasks.
 
 📲[QR Code Generator]: The application takes user input (a URL or any other text), converts it into a QR code, and displays it on the webpage. The project utilizes JavaScript and the QRCode.js library to dynamically generate QR codes.
 
@@ -23,7 +23,7 @@ and Your Portfolio.
 
 🎰[2048 Game]: I developed look python code and logic to design a 2048 game that we have played very often in our smartphone.
 
-😊[Count Number of faces in an Image]: This project is just the first step to face recognition with efficient coding using python libraries and face Cam.
+😊[Kaggle-Future-Predicting-Sales]: Sales prediction using Kaggle algorithms involves building machine learning models to forecast future sales based on historical data. By utilizing algorithms like Linear Regression, Decision Trees, or Neural Networks, the model learns from past sales patterns to predict future performance, aiding in business decisions.
 
 💸	[Loan Approval Prediction using Machine Learning]: This project uses Machine Learning with Python to ease their work and predict whether the candidate’s profile is relevant or not using key features like Marital Status, Education, Applicant Income, Credit History, etc.
 

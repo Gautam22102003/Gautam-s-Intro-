@@ -46,8 +46,7 @@ Check out my repositories for more!
 Feel free to get in touch with me if you'd like to collaborate or chat about technology:
 
 - 📧 Email: [shriinathg2203@gmail.com]
-- 🌐 Website: [file:///C:/Users/91895/OneDrive/Documents/Python/Count%20number%20of%20Faces%20using%20Python%20%E2%80%93%20OpenCV/Portfolio%20Website/index.html]
-  I am still working on the website .
+- 🌐 Website: [https://Gautam22102003.github.io]
 - 💼 LinkedIn: [https://www.linkedin.com/in/gautam-shriinath-8299b8265/]
 
 🔗 Connect with me
